@@ -1,0 +1,13 @@
+Just go in config.json and edit the rpc according to your needs.
+don't edit anything other then config.json. if you edit anything else then the code might stop working or break.
+after editing the config.json and saving it. just open cmd and do these commands-
+
+npm i
+node index.js
+
+after running these commands it will ask you for your discord token in the console. paste your token and press enter.
+your rpc will start working.
+
+i suggest doing this in a free code hosting like on https://bot-hosting.net
+
+enjoy!

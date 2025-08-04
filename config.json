@@ -1,0 +1,22 @@
+{
+    "status": {
+        "type": "online"
+    },
+    "rpcState": {
+        "type": "PLAYING",
+        "name": "Content_Deleted",
+        "details": "Living Life - https://vertex-z.onrender.com/",
+        "state": "Learning lua",
+        "url": "https://discord.com/invite/hCTCQwPKd3",
+        "timestamps": {
+            "start": 0
+        },
+        "assets": {
+            "largeImage": "https://cdn.discordapp.com/attachments/1373814307468349461/1401680102428905513/fa7d945227dcfa55851a1289ede89a8c.png?ex=689127d2&is=688fd652&hm=35ec715a30863b1ea5f8da0bd96a3067595663497efef77811a8bf54e0da1c4f&",
+            "largeText": "Code NOOOOOOOB",
+            "smallImage": "https://cdn.discordapp.com/emojis/1112022016770449538.gif?size=48",
+            "smallText": "Vertex Z"
+        }
+    }
+}
+
